@@ -2,7 +2,8 @@
  var tableDiv = document.getElementById("tableOfContentsDiv");
 Home = "<a href='index.html' class='tocLinks'> Home </a>";
 
-part1= "  <br/> <br/> Part I: A Journey to Remember.";
+
+part1 = " <br/> <br\>  <a href='title1.html' class='tocLinks'> Part I: A Journey to Remember.  </a>";
 chapter1 = " <br/> <br\>  <a href='chapter1tripkerala.html' class='tocLinks'> 1. A Kerala Vacation. </a>";
 chapter2 = " <br\> <a href='chapter2tripbacktoBombay.html' class='tocLinks'> 2. Back in Mumbai. </a>";
 chapter3 = " <br\> <a href='chapter3christmas.html' class='tocLinks'>  3. Merry Christmas. </a>";
@@ -13,8 +14,8 @@ chapter7 = " <br\> <a href='chapter7boardexams.html' class='tocLinks'> 7. The Bi
 chapter8 = "<br\> <a href='chapter8resultsexam.html' class='tocLinks'>  8. A Trip to Nagpur.  </a>";
 chapter9 = " <br\> <a href='chapter9newcollege.html' class='tocLinks'>  9. The Career of Dreams.  </a>";
 
-part2= "  <br/> <br/> Part II: A Roof under the Indian Sky.";
 
+part2 = " <br/> <br\>  <a href='title2.html' class='tocLinks'> Part II: A Roof under the Indian Sky. </a>";
 chapter10 = " <br\> <br\>   <a href='chapter10returntoindia1.html' class='tocLinks'>  10. Flying home to India. </a>";
 chapter11 = " <br\> <a href='chapter11bangalorehouse.html' class='tocLinks'> 11. Settling down.  </a>";
 chapter12 = " <br\> <a href='chapter12tifr.html' class='tocLinks'> 12. Coming to terms with India again. </a>";
