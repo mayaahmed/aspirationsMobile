@@ -21,10 +21,10 @@ function toggleRight(){
 function address(){
   var descriptString = " The  book Aspirations  is composed of two  short novels:  'A Journey to Remember' and 'A Roof under the Indian Sky'.  The first  story is about a Malayali   Christian teenage girl who lives in cosmopolitan Mumbai.   The  second story  is about a  young woman  torn between India  and America while  pursuing a  PhD.";
 
-var addString= " <br/> <br/> &copy; Punjiri Web and Mobile Technologies, 2016.  <br/> Mangalore, Karnataka, India  <br/>  Email: maya.ahmed@gmail.com <br/>";
 
-var newString = descriptString + addString;
-contactDiv.innerHTML= newString;
+
+
+contactDiv.innerHTML= descriptString;
 }
 
 address();
